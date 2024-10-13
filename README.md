@@ -24,6 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+## 👥 Organizations
+[![Organization1](https://avatars.githubusercontent.com/u/5402446?s=200&v=4)](https://github.com/Jugendhackt) 
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMXX1679&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMXX1679&theme=dark&hide_border=false)<br/>
