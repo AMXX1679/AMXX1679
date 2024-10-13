@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 Berlin, Germany<br>🌱 I’m currently learning JAVA<br>
+📍 Berlin, Germany<br>🌱 I’m currently learning JAVA
 
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
